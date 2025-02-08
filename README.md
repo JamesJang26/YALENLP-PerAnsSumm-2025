@@ -5,7 +5,6 @@ We conduct various evaluations using **LLama 3.3 70B**, **GPT-4o**, and other mo
 ---
 
 ## **🧪 Experiment Checklist**
-Track our experiments below. We will update the **[✅ Done]** items as progress is made.
 
 ### **1️⃣ Zero-shot Prompting**
 - [ ] **LLama 3.3 70B Zero-shot**
