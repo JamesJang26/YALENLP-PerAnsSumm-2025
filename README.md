@@ -10,9 +10,9 @@ Track our experiments below. We will update the **[✅ Done]** items as progress
 ### **1️⃣ Zero-shot Prompting**
 - [ ] **LLama 3.3 70B Zero-shot**
   - [x] Task A w/ simple prompting
-  - [ ] Task A w/ enhanced prompting
-  - [ ] Task B w/ simple prompting
-  - [ ] Task B w/ enhanced prompting
+  - [x] Task A w/ enhanced prompting
+  - [x] Task B w/ simple prompting
+  - [x] Task B w/ enhanced prompting
   - [ ] Test **various hyperparameters** (temperature, max_len, top_p, etc.)
 - [ ] **GPT-4o Zero-shot**
   - [ ] Task A 
