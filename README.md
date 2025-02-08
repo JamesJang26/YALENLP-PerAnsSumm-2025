@@ -8,14 +8,14 @@ We conduct various evaluations using **LLama 3.3 70B**, **GPT-4o**, and other mo
 
 ### **1️⃣ Zero-shot Prompting**
 - [ ] **LLama 3.3 70B Zero-shot**
-  - [x] Task A w/ simple prompting
-  - [x] Task A w/ enhanced prompting
-  - [x] Task B w/ simple prompting
-  - [x] Task B w/ enhanced prompting
+  - [ ] Task A w/ simple prompting
+  - [ ] Task A w/ enhanced prompting
+  - [ ] Task B w/ simple prompting
+  - [ ] Task B w/ enhanced prompting
   - [ ] Test **various hyperparameters** (temperature, max_len, top_p, etc.)
 - [ ] **GPT-4o Zero-shot**
-  - [ ] Task A 
-  - [ ] Task B
+  - [x] Task A 
+  - [x] Task B
   - [ ] Compare **prompting strategies** with LLama 3.3 70B
 
 ### **2️⃣ Few-shot Prompting**
