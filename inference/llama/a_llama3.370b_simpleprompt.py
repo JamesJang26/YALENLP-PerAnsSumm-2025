@@ -64,7 +64,6 @@ def process_task_a_vllm(
     )
     sampling_params = SamplingParams(max_tokens=max_new_tokens, temperature=temperature, top_p=top_p)
 
-    # **프롬프트 뼈대만 저장**
     prompt_template = (
         "Identify spans from the text below that reflect a specific perspective "
         "and classify them into one of the following categories: "
