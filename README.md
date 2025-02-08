@@ -9,7 +9,7 @@ Track our experiments below. We will update the **[✅ Done]** items as progress
 
 ### **1️⃣ Zero-shot Prompting**
 - [ ] **LLama 3.3 70B Zero-shot**
-  - [v] Task A w/ simple prompting
+  - [x] Task A w/ simple prompting
   - [ ] Task A w/ enhanced prompting
   - [ ] Task B w/ simple prompting
   - [ ] Task B w/ enhanced prompting
@@ -39,7 +39,3 @@ Track our experiments below. We will update the **[✅ Done]** items as progress
   - [ ] Evaluate **results & limitations**
 - [ ] **Summarize findings**
   - [ ] Possibly **write a short appendix** on **BERT NER results & limitations** (e.g., "The results were really bad...")
-
----
-
-## **📂 Repository Structure**
