@@ -7,26 +7,26 @@ We conduct various evaluations using **LLama 3.3 70B**, **GPT-4o**, and other mo
 ## **🧪 Experiment Checklist**
 
 ### **1️⃣ Zero-shot Prompting**
-- [ ] **LLama 3.3 70B Zero-shot**
-  - [ ] Task A w/ simple prompting
-  - [ ] Task A w/ enhanced prompting
-  - [ ] Task B w/ simple prompting
-  - [ ] Task B w/ enhanced prompting
-  - [ ] Test **various hyperparameters** (temperature, max_len, top_p, etc.)
-- [ ] **GPT-4o Zero-shot**
+- [x] **LLama 3.3 70B Zero-shot**
+  - [x] Task A w/ simple prompting
+  - [x] Task A w/ enhanced prompting
+  - [x] Task B w/ simple prompting
+  - [x] Task B w/ enhanced prompting
+  - [x] Test **various hyperparameters** (temperature, max_len, top_p, etc.)
+- [x] **GPT-4o Zero-shot**
   - [x] Task A 
   - [x] Task B
-  - [ ] Compare **prompting strategies** with LLama 3.3 70B
+  - [x] Compare **prompting strategies** with LLama 3.3 70B
 
 ### **2️⃣ Few-shot Prompting**
-- [ ] **LLama 3.3 70B Few-shot**
-  - [ ] **3-shot**
-  - [ ] **5-shot**
-  - [ ] **Sentence-transformer based few-shot case selection**
-- [ ] **GPT-4o Few-shot**
-  - [ ] **3-shot**
-- [ ] **Mixture of Agents**
-  - [ ] Test **various settings** for combining multiple agents
+- [x] **LLama 3.3 70B Few-shot**
+  - [x] **3-shot**
+  - [x] **5-shot**
+  - [x] **Sentence-transformer based few-shot case selection**
+- [x] **GPT-4o Few-shot**
+  - [x] **3-shot**
+- [x] **Mixture of Agents**
+  - [x] Test **various settings** for combining multiple agents
 
 
 ### **3️⃣ Supervised Fine-tuning**
